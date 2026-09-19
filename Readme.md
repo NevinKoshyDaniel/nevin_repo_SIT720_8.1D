@@ -29,3 +29,18 @@ pip install -r requirements.txt
 cd backend
 python main.py
 ```
+
+### 2. Frontend Setup (SvelteKit)
+The frontend is a SvelteKit application built with Vite and TypeScript.
+
+Open a new terminal window and navigate to the frontend directory:
+
+```bash
+cd frontend
+
+# Install Node dependencies 
+npm install
+
+# Start the Vite development server
+npm run dev
+```
