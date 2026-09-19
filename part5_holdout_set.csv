@@ -1,0 +1,11 @@
+address,price,beds,baths,car_spaces,is_land_size_present,land_size_sqm,sold_date,distance_to_sydney_cbd (km),source_link,land_size_is_missing,log_price,bed_to_bath_ratio,suburb_St Ives,suburb_Vaucluse,property_type_House,property_type_Townhouse,property_type_Unit
+"40 Stephen Street, Blacktown, NSW 2148",1350000.0,5,3,3,1,338.0,2026-09-17,40.94,https://www.realestate.com.au/sold/property-house-nsw-blacktown-151437264,0,14.115615891155079,1.6666666666666667,False,False,True,False,False
+"5 Russell Street, Vaucluse, NSW 2030",13000000.0,5,3,1,1,766.0,2025-11-06,11.65,Link,0,16.380459992348886,1.6666666666666667,False,True,True,False,False
+"9 Marlborough Place, St Ives, NSW 2075",2605000.0,4,2,2,1,898.0,2026-07-02,24.4,https://www.realestate.com.au/sold/property-house-nsw-st+ives-151283188,0,14.77294361704669,2.0,True,False,True,False,False
+"9 Warrabina Avenue, St Ives, NSW 2075",3450000.0,4,2,2,0,929.75,2026-05-09,19.95,https://www.realestate.com.au/sold/property-house-nsw-st+ives-150920596,1,15.053885078862573,2.0,True,False,True,False,False
+216/126B Killeaton Street,855000.0,2,1,1,1,99.0,2026-06-05,19.55,https://www.realestate.com.au/sold/property-apartment-nsw-st+ives-150829112,0,13.658857917508856,2.0,True,False,False,False,False
+"384 Mona Vale Road, St Ives, NSW 2075",1720000.0,2,1,1,1,695.6,2026-07-30,21.01,https://www.realestate.com.au/sold/property-house-nsw-st+ives-151054708,0,14.357835430184815,2.0,True,False,True,False,False
+"21 Towns Road, Vaucluse, NSW 2030",9500000.0,5,3,2,1,1132.0,2026-06-26,9.51,https://www.domain.com.au/21-towns-road-vaucluse-nsw-2030-2020896520,0,16.066802461833923,1.6666666666666667,False,True,True,False,False
+"41/25 Mantaka Street, Blacktown, NSW 2148",435000.0,2,1,1,0,0.0,2026-08-20,34.45,https://www.realestate.com.au/sold/property-apartment-nsw-blacktown-151654344,1,12.983103608918753,2.0,False,False,False,False,False
+"13 John Dykes Avenue, Vaucluse, NSW 2030",12800000.0,5,3,2,1,601.0,2025-10-22,11.6,Link,0,16.36495580701484,1.6666666666666667,False,True,True,False,False
+6 Karoom Avenue,3510000.0,4,3,2,1,972.0,2026-06-01,23.9,https://www.realestate.com.au/sold/property-house-nsw-st+ives-151217160,0,15.071126880342293,1.3333333333333333,True,False,True,False,False

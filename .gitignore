@@ -1,0 +1,21 @@
+# Python & Backend
+
+virtuals/
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Frontend (SvelteKit/Node)
+
+frontend/node_modules/
+frontend/.svelte-kit/
+frontend/build/
+frontend/package-lock.json
+*.log
+
+# IDE & OS Files
+
+*.vscode/
+*.DS_Store
+Thumbs.db
