@@ -19,7 +19,7 @@ app.add_middleware(
 )
 
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
-MODELS_DIR = os.path.join(os.path.dirname(BASE_DIR), "models")
+MODELS_DIR = os.path.join(os.path.dirname(BASE_DIR), "models/updated")
 
 try:
     model = joblib.load(os.path.join(MODELS_DIR, "rf_housing_model.pkl"))

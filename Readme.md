@@ -27,7 +27,7 @@ pip install -r requirements.txt
 
 # Run the backend server 
 cd backend
-python main.py
+fastapi run main.py
 ```
 
 ### 2. Frontend Setup (SvelteKit)
